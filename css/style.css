@@ -19,3 +19,15 @@ body{
 .about-container{
     background-color: #317474d7;
 }
+.education-container{
+    background-color: #EEEEEE;
+}
+.red-color{
+    color: #FB857F;
+}
+.circle{
+    background-color: #FB857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
